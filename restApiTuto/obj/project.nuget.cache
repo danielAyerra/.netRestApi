@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "/U2dUlOtLMR37jqikWh9v7bnHJvjmmQeyvKoAFiYgOflMAK0+JpCa1eMeJ66RE33sz+am9dDlqV5sbVFKB3LJQ==",
+  "dgSpecHash": "tNGN/QahUADzlBeYx4hr2HkW0twt2u42vLifARfzJh5XKgCeofBjPEJaPJyGlqRyxIKLK5JAfvWNzJhqBU4yHg==",
   "success": true,
   "projectFilePath": "/home/Weinman/git/.netRestApi/restApiTuto/restApiTuto.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/Weinman/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/Weinman/.nuget/packages/microsoft.openapi/1.6.22/microsoft.openapi.1.6.22.nupkg.sha512",
+    "/home/Weinman/.nuget/packages/swashbuckle.aspnetcore/7.1.0/swashbuckle.aspnetcore.7.1.0.nupkg.sha512",
+    "/home/Weinman/.nuget/packages/swashbuckle.aspnetcore.swagger/7.1.0/swashbuckle.aspnetcore.swagger.7.1.0.nupkg.sha512",
+    "/home/Weinman/.nuget/packages/swashbuckle.aspnetcore.swaggergen/7.1.0/swashbuckle.aspnetcore.swaggergen.7.1.0.nupkg.sha512",
+    "/home/Weinman/.nuget/packages/swashbuckle.aspnetcore.swaggerui/7.1.0/swashbuckle.aspnetcore.swaggerui.7.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
